@@ -22,5 +22,5 @@ HTML • CSS • JavaScript • GSAP • ScrollTrigger • Locomotive Scroll •
 
 
 ## Deployment / Live demo
-Live demo: [YOUR_DEPLOYMENT_URL_HERE]
+Live demo: https://ayushpanwar1741-ai.github.io/Awarded-site-clone/
 
